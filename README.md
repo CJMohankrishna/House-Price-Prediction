@@ -1,4 +1,9 @@
-#House Price Prediction 
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.7-orange)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-brightgreen)
+
+#  House Price Prediction using Machine Learning
+Predict house prices using Machine Learning regression models built with Scikit-learn.
 
 A Machine Learning project that predicts house prices using:
 
